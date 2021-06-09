@@ -14,13 +14,13 @@ K2 1.54
 # Spiral arm
 B2s 4000
 Ka 5.015
-Ele_arm 0.135000 0.129000 0.103000 0.116000 0.005700
-Wid_arm 300 500 300 500 300
+Ele_arm 1.0 1.0 1.0 1.0 1.0
+Wid_arm 300 300 300 300 300
 Aa 11680
-ncn 2.4
+ncn 0.0
 wcn 8.2
 thetacn 109
-nsg 0.626
+nsg 0.0
 wsg 20
 thetasg 75.8
 
